@@ -107,35 +107,32 @@ Add:
 - Google Sheets credentials
 - Razorpay credentials
 
-### Step 6: Import Workflow
-
-Import the `workflow.json` file into n8n.
-
----
-
 ## 📸 Screenshots
 
 ### Workflow Architecture
 
-(Add workflow screenshot)
+
+<img width="1857" height="831" alt="AI Doctor Appointment Booking Agent" src="https://github.com/user-attachments/assets/cd90a48e-2cdb-411b-b44e-bc5cfbfc0510" />
 
 ### WhatsApp Conversation
 
-(Add WhatsApp screenshot)
+<img width="1270" height="473" alt="Screenshot 2026-05-20 174459" src="https://github.com/user-attachments/assets/fc0f1300-200b-4153-a388-9b4781339da0" />
+<img width="1251" height="518" alt="Screenshot 2026-05-20 174443" src="https://github.com/user-attachments/assets/e9482393-bf9c-42f6-b1a7-e73454834961" />
+
 
 ### Google Sheet Database
 
-(Add Sheet screenshot)
+<img width="1800" height="445" alt="Screenshot 2026-05-20 180224" src="https://github.com/user-attachments/assets/14bd6eac-7826-4b33-b201-8e451afb4a77" />
+
 
 ### Payment Flow
 
-(Add payment screenshot)
+ <img width="1850" height="895" alt="Screenshot 2026-05-20 180325" src="https://github.com/user-attachments/assets/8ecc1d00-0f78-48c4-9a93-c45568f2522b" />
 
 ---
 
 ## 🔮 Future Improvements
 
-- Multi-doctor support
 - Voice appointment booking
 - Email notifications
 - Dashboard for doctors
