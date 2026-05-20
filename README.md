@@ -1,6 +1,3 @@
-# 🏥 <img width="1857" height="831" alt="AI Doctor Appointment Booking Agent" src="https://github.com/user-attachments/assets/6b08e520-e732-4c97-9d86-20531d3ce68d" /><img width="1857" height="831" alt="AI Doctor Appointment Booking Agent" src="https://github.com/user-attachments/assets/240b5bd9-787a-4488-8312-87f138ed555c" />
-
-
 An AI-powered Doctor Appointment Booking System built using n8n workflow automation, WhatsApp API, OpenAI/OpenRouter, Google Calendar, Google Sheets, Razorpay, Docker, and ngrok.
 
 This project automates the complete patient appointment process through conversational AI. Patients can book, reschedule, or cancel appointments through WhatsApp while the system handles availability checking, token generation, payment processing, reminders, and database updates automatically.
